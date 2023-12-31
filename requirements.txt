@@ -1,0 +1,4 @@
+mysql
+bs4
+requests
+pandas
