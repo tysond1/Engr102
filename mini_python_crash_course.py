@@ -191,7 +191,7 @@ def module_3_operators(a, b):
             a (float): side 1
             b (float): side 2
         Returns:
-            (float) a to the power of b
+            (float): length of hypotenuse
     '''
     # pythagrean theorem: a^2 + b^2 = c^2
     # sum: x + y
